@@ -1,0 +1,4 @@
+Why did you use localStorage?”
+“Since this is a frontend-only assignment without a real backend, I used localStorage to simulate session persistence.
+In a production system, authentication tokens would be stored in HTTP-only cookies with server-side validation.
+localStorage here is only for mocking authentication behavior and improving UX during demo.”
